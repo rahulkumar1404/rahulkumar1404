@@ -12,8 +12,8 @@ In case, you are wondering, what are my writeups are like. I’d advise you to t
 </p>
 
 ![age](https://img.shields.io/badge/age-22-blue)
-![WebDev](https://img.shields.io/badge/focus-FullStack-brightgreen)
-![ShorFlim](https://img.shields.io/badge/focus-ScriptWriting-brightgreen)
+![WebDev](https://img.shields.io/badge/WebDev-FullStack-brightgreen)
+![ShorFlim](https://img.shields.io/badge/ScriptWriter-ScriptWriting-brightgreen)
 
 <img width="45%" height ="300px" align="right" alt="GitHub Image" src="https://user-images.githubusercontent.com/84653100/162628214-533bf29a-7aa7-462b-9a53-608f7ec363d7.png" />
 
