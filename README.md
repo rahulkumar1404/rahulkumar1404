@@ -3,7 +3,13 @@
 ![image](https://user-images.githubusercontent.com/84653100/162626674-548b559e-869d-4f0d-87e5-8586726dda4b.png)
 
  <h2 align="center"> Hi there, I'm Rahul Kumar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>  
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mitr&color=6633CCsize=24&center=true&vCenter=true&lines=+Front+end+web+developer;DSA+On+cpp+Java;ScriptWriter+/+StoryTeller;"></a>
+  
+</p>
+
 <p>
+ 
 Hi, I am Rahul Kumar, a creative thinker, a problem solver, and a student. I am a 3rd-year B.Tech (CSE). Being a CSE student, I have gained experience in web designing. Along with it, I am a 5-star Java coder in hackerrank. I am also available on different coding platforms,  CodeChef, Geeks for Geeks, and leetcode.  I have merely started this with a vision to be better in my work.
   
 I am a strong believer in “Follow your passion”. Poetry being my passion has helped me be what I am today. I can proudly say that I am a poet who has performed numerous poetry seminars.
@@ -14,6 +20,9 @@ In case, you are wondering, what are my writeups are like. I’d advise you to t
 ![age](https://img.shields.io/badge/age-22-blue)
 ![WebDev](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![ShorFlim](https://img.shields.io/badge/focus-ScriptWriting-brightgreen)
+![ProfileVistors](https://gpvc.arturio.dev/rahulkumar1404)
+![followers](https://img.shields.io/github/followers/rahulkumar1404?style=social)
+
 
 <img width="45%" height ="300px" align="right" alt="GitHub Image" src="https://user-images.githubusercontent.com/84653100/162628214-533bf29a-7aa7-462b-9a53-608f7ec363d7.png" />
 
@@ -91,6 +100,12 @@ In case, you are wondering, what are my writeups are like. I’d advise you to t
 #### Overall profile stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulkumar1404&count_private=true&theme=merko&show_icons=true&hide=prs)
+
+ <p align="center">
+     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=rahulkumar1404"> 
+
+   <p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkumar1404&theme=dark">
 
 ## Connect with me
 
