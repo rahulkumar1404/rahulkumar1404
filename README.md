@@ -4,7 +4,7 @@
 
  <h2 align="center"> Hi there, I'm Rahul Kumar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>  
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mitr&color=6633CCsize=24&center=true&vCenter=true&lines=+Front+end+web+developer;DSA+On+cpp+Java;ScriptWriter+/+StoryTeller;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mitr&color=6633CCsize=24&center=true&vCenter=true&lines=+Front+end+web+developer;DSA+On+cpp+/+Java;ScriptWriter+/+StoryTeller;"></a>
   
 </p>
 
