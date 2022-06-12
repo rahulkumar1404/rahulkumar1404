@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/84653100/162626674-548b559e-869d-4f0d-87e5-8586726dda4b.png)
 
- <h2 align="center"> Hi there, I'm Rahul Kumar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>  
+ <h2 align="center"> Hi there, I'm Rahul Kumar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="3%"></h2>  
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mitr&color=6633CCsize=24&center=true&vCenter=true&lines=+Full+Stack+web+developer;DSA+On+cpp+/+Java;ScriptWriter+/+StoryTeller;"></a>
   
@@ -94,7 +94,7 @@ In case, you are wondering, what are my writeups are like. I’d advise you to t
 
 ### 🏆 GitHub Profile Trophy
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulkumar1404&theme=dracula" alt="Prasundas99" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulkumar1404&theme=dracula" alt="rahulkumar1404" /></a> </p>
 
 
 #### Overall profile stats
