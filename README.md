@@ -1,117 +1,186 @@
-<img src="https://user-images.githubusercontent.com/84653100/162627505-a30fade6-f6e2-492d-8b20-eef251f88592.png" height="300px" width="2000px">
+<div align="center">
 
-![image](https://user-images.githubusercontent.com/84653100/162626674-548b559e-869d-4f0d-87e5-8586726dda4b.png)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=200&section=header&text=Rahul%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Java%20%2B%20Spring%20Boot%20%2B%20React&descAlignY=58&descSize=18" width="100%"/>
 
- <h2 align="center"> Hi there, I'm Rahul Kumar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="3%"></h2>  
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mitr&color=6633CCsize=24&center=true&vCenter=true&lines=+Full+Stack+web+developer;DSA+On+cpp+/+Java;ScriptWriter+/+StoryTeller;"></a>
-  
-</p>
+<a href="https://readme-typing-svg.herokuapp.com">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Microservices;Spring+Boot+%7C+React+%7C+REST+APIs;Crafting+Code+%26+Stories;Telecom+%7C+FinTech+%7C+Enterprise+Dev" alt="Typing SVG" />
+</a>
 
-<p>
- 
-Hi, I am Rahul Kumar, a creative thinker, a problem solver, and a student. I am a 3rd-year B.Tech (CSE). Being a CSE student, I have gained experience in web designing. Along with it, I am a 5-star Java coder in hackerrank. I am also available on different coding platforms,  CodeChef, Geeks for Geeks, and leetcode.  I have merely started this with a vision to be better in my work.
-  
-I am a strong believer in “Follow your passion”. Poetry being my passion has helped me be what I am today. I can proudly say that I am a poet who has performed numerous poetry seminars.
-  
-In case, you are wondering, what are my writeups are like. I’d advise you to take a glance at @KUCH_HASIN_SI_BAATIYEN on social media platforms such as <a href="https://www.instagram.com/kuch_hasin_si_baatiyen">Insta</a> / <a href="https://www.youtube.com/c/KUCHHASINSIBAATIYEN">YouTube</a>  / <a href="https://twitter.com/rahulkumar3108">Twitter</a>/<a href ="https://open.spotify.com/show/3mhpRvZT0BQzwQ8vmR6pnR">Spotify</a>/<a href="https://anchor.fm/kuch-hasin-si-baatiyen">Anchor</a> / <a href ="https://www.facebook.com/KUCHHASINSIBAATIYEN/">Fb page</a>.
-</p>
+<br/>
 
-![age](https://img.shields.io/badge/age-22-blue)
-![WebDev](https://img.shields.io/badge/focus-FullStack-brightgreen)
-![ShorFlim](https://img.shields.io/badge/focus-ScriptWriting-brightgreen)
-![ProfileVistors](https://gpvc.arturio.dev/rahulkumar1404)
-![followers](https://img.shields.io/github/followers/rahulkumar1404?style=social)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kumar-b83131213/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul.kumar.uemk.cs.2023@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulkumar1404)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rahulkumar1404)
 
-
-<img width="45%" height ="300px" align="right" alt="GitHub Image" src="https://user-images.githubusercontent.com/84653100/162628214-533bf29a-7aa7-462b-9a53-608f7ec363d7.png" />
-
-<ul>
-  <li> 💬 Ask me about Full Stack Web Development | JavaScript | Script Writing | Poetry Writing | VoiceOver  | Data Structures | Algorithms </li>
-  <li>💼 Portfolio: Check out my Portfolio at <a href="https://kuchhasinsibaatiyen.wordpress.com/"><i class="fa fa-wordpress"></i>WordPress</a> |<a href="https://rahulkumar1404.github.io/kuch_hasin_si_baatiyen.github.io/"> Github Portfolio</a>  </li>
-  <li>👯 I’m looking to collaborate Full Stack Web development Projects </li>
-  <li>👯 I’m looking to collaborate Short Flim Projects </li>
-</ul>
-
-## Skilled in
-
-### Languages
-
-<div>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="36">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png" height="30">
-<img src="https://user-images.githubusercontent.com/84653100/162629034-8d67bad6-8051-4478-a64f-1dafa49ab264.png" height="36">
 </div>
 
+---
 
+## 👨‍💻 About Me
 
-### Web Development (Full-stack)
+```java
+public class RahulKumar {
 
-#### Frontend/UI
+    String title       = "Junior Software Engineer @ Cognizant";
+    String client      = "Deutsche Telekom";
+    String location    = "Kolkata, West Bengal, India";
+    String[] stack     = {"Java", "Spring Boot", "React", "Microservices", "REST APIs"};
+    String[] passions  = {"Clean Architecture", "Hindi Poetry", "Screenplay Writing", "Fitness"};
 
-<div>
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png" height="36">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png" height="36">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/bootstrap.png?raw=true" height="36">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="36">
- 
+    String mission() {
+        return "Engineer who builds products from scratch, writes narratives, "
+             + "and bridges technology with communication.";
+    }
+}
+```
+
+- 🔭 Currently building **telecom enterprise microservices** at Cognizant for Deutsche Telekom
+- 🏗️ Previously delivered a full **Insurance Billing Platform** for AIG
+- 📝 Co-author of **30 Hindi Sahitya books** & screenplay writer for feature films + web series
+- 💪 Fitness enthusiast | Hindi poet
+- 📬 Reach me at **rahul.kumar.uemk.cs.2023@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-0052CC?style=for-the-badge&logo=microgen&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Testing & Quality
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-C5D927?style=for-the-badge&logo=java&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Practices & Tools
+![Agile](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID_Principles-6C63FF?style=for-the-badge&logo=bookstack&logoColor=white)
+
+---
+
+## 💼 Work Experience
+
+| Role | Organization | Timeline |
+|------|-------------|----------|
+| 🚀 **Junior Software Engineer** | Cognizant — *Client: Deutsche Telekom* | Aug 2025 – Present |
+| 🔧 **Programmer Analyst Trainee** | Cognizant — *Client: AIG* | Aug 2024 – Aug 2025 |
+| 🎓 **Java Full Stack React Developer Intern** | Cognizant — Chennai | Nov 2023 – Jun 2024 |
+| 💻 **Web Developer Intern** | Indo-European Scientific Research Group / NIIT | Nov 2021 – Feb 2022 |
+| ☁️ **Web Developer Intern** | Microsoft Azure – Future Skill Ready Talent Program | Oct 2021 – Dec 2021 |
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📇 Smart Contact Management System
+Spring Boot · Spring Security · OAuth 2.0 · MySQL · Thymeleaf
+
+Full-stack contact management app with secure login (OAuth 2.0), email API integration, Cloudinary media storage, and responsive UI.
+
+[🔗 GitHub Repo](https://github.com/rahulkumar1404/smart-contact-management-system)
+
+</td>
+<td width="50%">
+
+### 🚌 RouteMaster – Bus Management System
+Spring Boot · React · RESTful APIs · MySQL
+
+Real-time bus tracking, route management, and passenger info — full-stack system replicating core transit operations.
+
+[🔗 GitHub Repo](https://github.com/rahulkumar1404/RouteMaster)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🖥️ Online JavaScript IDE
+Microsoft Azure · AJAX · ACE Editor · JavaScript
+
+Browser-based IDE with live error detection, deployed on Azure Static Web Apps under AICTE–Microsoft collaboration.
+
+[🔗 GitHub Repo](https://github.com/rahulkumar1404/online-javascript-ide) · [🌐 Live Demo](https://lemon-pebble-0e5031400.azurestaticapps.net)
+
+</td>
+<td width="50%">
+
+### 📄 Automated Resume Generator
+PHP · JavaScript · HTML · CSS · Bootstrap · SQL
+
+Resume generation tool built for institute students with secure login, user verification, and template-based résumé creation.
+
+[🔗 GitHub Repo](https://github.com/rahulkumar1404/automated-resume-generator)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Education
+
+- 🎓 **Bachelor of Technology — Computer Science & Technology**
+- 🏛️ University of Engineering & Management (UEM), Kolkata · 2019–2023
+- 📊 **CGPA: 9.32 / 10.0**
+
+---
+
+## 🏆 Achievements & Beyond Code
+
+- ✍️ **Assistant Screenplay Writer** — Wrote screenplays, dialogues & character arcs for 2 feature films + web series *"The Signature"* (HpCamact, 2023)
+- 📚 **Co-Author** — Contributed to **30 Hindi Sahitya publications** (2022)
+- 🎤 **Hindi Poet** — Performed at multiple poetry seminars; follow [@KUCH_HASIN_SI_BAATIYEN](https://www.instagram.com/kuch_hasin_si_baatiyen) on Instagram / [YouTube](https://www.youtube.com/c/KUCHHASINSIBAATIYEN)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rahulkumar1404&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rahulkumar1404&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=rahulkumar1404&theme=tokyonight&hide_border=true" />
+
 </div>
 
-#### Backend/Server
+---
 
-<div>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" height="42">
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:6C63FF&height=100&section=footer" width="100%"/>
+
+*"Code like an engineer. Think like a storyteller."*
+
 </div>
-
-
-#### Database
-
-<div>
-<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mysql1.png" height="42">
-</div>
-
-### Dev-Ops
-
-<div>
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="40">
-<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/github.png" height="41">
-</div>
-
-
-## Work Experience
-
-| 💼 Designation |  🏢Organization | ⏰Timeline  |
-| :-: | :-: | :-: |
-|  Brand Ambassador Intern  | [@TuteDude](https://tutedude.com/) | Aug 2021 - Sept 2021 |
-|  Web Developer Intern | [@LetsGrowMore](https://letsgrowmore.in/) | Sept 2021 - Oct 2021 |
-|  Web Developer(Future Skill Ready Talent Internship Programm)  | [@MicroSoft](https://futurereadytalent.in) | Nov 2021 - Dec 2021 |
-|  Web Developer Intern | [@Indo-European Scientific Research Group, London National Institute for Industrial Training](https://www.myniitportal.in/) | Nov 2021 - Feb 2021 |
-|  Business Development Intern | [@Indo-European Scientific Research Group, London National Institute for Industrial Training](https://www.myniitportal.in/) | Dec 2021 - Feb 2021 |
-
-
-
-
-
-### 🏆 GitHub Profile Trophy
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulkumar1404&theme=dracula" alt="rahulkumar1404" /></a> </p>
-
-
-#### Overall profile stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulkumar1404&count_private=true&theme=merko&show_icons=true&hide=prs)
-
- <p align="center">
-     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=rahulkumar1404"> 
-
-   <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkumar1404&theme=dark">
-
-## Connect with me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/rahul-kumar-b83131213/"><img height="45" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/rahulkumar3108"><img height="45" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/t.jpg"></a>
-&nbsp;&nbsp;
-  <a href="mailto:rahulkumarcoder1404@gmail.com"><img height="45" src="https://toppng.com/uploads/preview/mail-icon-logo-template-icono-de-gmail-11562954424h5fw2mradf.png"></a>&nbsp;&nbsp;
-</p>
